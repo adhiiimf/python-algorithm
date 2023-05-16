@@ -1,3 +1,5 @@
+# Adhi Muhammad Fahmi --> https://github.com/adhiiimf
+
 def cariPermutasi(x,y):
     hasil = []
     ylen = len(y[0])
